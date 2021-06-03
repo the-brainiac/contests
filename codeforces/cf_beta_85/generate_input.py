@@ -1,0 +1,5 @@
+f = open('input.txt', 'w')
+f.write('1\n')
+f.write('1000 1000\n')
+f.write('+'*1000+'\n')
+f.write('1 1\n'*1000)
